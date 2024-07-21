@@ -1,0 +1,4 @@
+fastapi
+pillow
+uvicorn
+tesorflow == 2.16.2
